@@ -16,7 +16,7 @@ public class BaseTest extends UtilityClass {
 
     @AfterMethod
     public void tearDown(){
-        //closebrowwser();
+        closebrowwser();
     }
 
 
